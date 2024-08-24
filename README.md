@@ -32,4 +32,4 @@ La aplicación convierte las letras `a`, `e`, `i`, `o` y `u` en sus versiones en
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/encriptador-de-textos.git](https://github.com/BastianPerezG/desafio_encriptador_alura_latam
+   git clone https://github.com/BastianPerezG/desafio_encriptador_alura_latam
